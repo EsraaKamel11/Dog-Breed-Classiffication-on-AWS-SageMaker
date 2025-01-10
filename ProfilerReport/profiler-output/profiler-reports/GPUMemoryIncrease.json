@@ -1,0 +1,1 @@
+{"RuleTriggered": 18, "Violations": 18, "Details": {"algo-1": {"gpu0": {"increase": 5.444444444444443, "gpu_max": 76.0, "p05": 0.0, "p25": 0.0, "p50": 0.0, "p75": 24.5, "p95": 60.0, "upper": 61.25, "lower": 0.0}}, "last_timestamp": 1736513580000000}, "Datapoints": 1554, "RuleParameters": "increase:5\npatience:1000\nwindow:10"}
